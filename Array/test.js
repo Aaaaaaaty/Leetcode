@@ -1,17 +1,8 @@
-function Parent() {
-    this.a = 1;
-    this.b = [1, 2, this.a];
+var missingNumber = function(nums) {
+	var result = 0
+    nums.forEach(function(item, index) {
+    	result += item
+    })
+    return (0 + nums.length) * (nums.length + 1) / 2 - result
 }
-function Child() {
-    this.a = 2;
-    this.show = function() {
-        this.a = 10
-    }
-    
-}
-Child.prototype = new Parent(); 
-var parent = new Parent();
-var child1 = new Child();
-child1.a = 11;
-child1.show()
-console.log(parent.b)
+console.log(missingNumber([0]))
