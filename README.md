@@ -1,6 +1,6 @@
 # Leetcode Solutions in JavaScript
 
-### Array
+### [Array](https://github.com/Aaaaaaaty/Leetcode/tree/master/Array)
  - [561.Array Partition I](https://github.com/Aaaaaaaty/Leetcode/blob/master/Array/ArrayPartitionI.js)(Easy)
  - [566.Reshape the Matrix](https://github.com/Aaaaaaaty/Leetcode/blob/master/Array/ReshapetheMatrix.js)(Easy)
  - [485.Max Consecutive Ones](https://github.com/Aaaaaaaty/Leetcode/blob/master/Array/MaxConsecutiveOnes.js)(Easy)
