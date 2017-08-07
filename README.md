@@ -10,3 +10,4 @@
  - [169.Majority Element](https://github.com/Aaaaaaaty/Leetcode/blob/master/Array/MajorityElement.js)(Easy)
  - [217.Contains Duplicate](https://github.com/Aaaaaaaty/Leetcode/blob/master/Array/ContainsDuplicate.js)(Easy)
  - [628.Maximum Product of Three Numbers](https://github.com/Aaaaaaaty/Leetcode/blob/master/Array/MaximumProductofThreeNumbers.js)(Easy)
+ - [121.Best Time to Buy and Sell Stock](https://github.com/Aaaaaaaty/Leetcode/blob/master/Array/BestTimeBuyandSellStock.js)(Easy)
