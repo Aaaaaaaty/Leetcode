@@ -1,8 +1,17 @@
-var missingNumber = function(nums) {
-	var result = 0
-    nums.forEach(function(item, index) {
-    	result += item
-    })
-    return (0 + nums.length) * (nums.length + 1) / 2 - result
+/**
+ * @param {number[]} prices
+ * @return {number}
+ */
+var maxProfit = function(prices) {
+	var max = 0
+	var index = prices[0] 
+	for(var i = 1; i < prices.length; i++) {
+		if(prices[i] > index) {
+			max = Math.max(prices[i] - index, max)
+		} else {
+			index = prices[i]
+		}
+	}
+	return max 
 }
-console.log(missingNumber([0]))
+console.log(maxProfit([7, 1, 5, 3, 6, 4]))
