@@ -11,3 +11,6 @@
  - [217.Contains Duplicate](https://github.com/Aaaaaaaty/Leetcode/blob/master/Array/ContainsDuplicate.js)(Easy)
  - [628.Maximum Product of Three Numbers](https://github.com/Aaaaaaaty/Leetcode/blob/master/Array/MaximumProductofThreeNumbers.js)(Easy)
  - [121.Best Time to Buy and Sell Stock](https://github.com/Aaaaaaaty/Leetcode/blob/master/Array/BestTimeBuyandSellStock.js)(Easy)
+ - [35.Search Insert Position](https://github.com/Aaaaaaaty/Leetcode/blob/master/Array/SearchInsertPosition.js)(Easy)
+ - [53.Maximum Subarray](https://github.com/Aaaaaaaty/Leetcode/blob/master/Array/MaximumSubarray.js)(Easy)
+ - [27. Remove Element](https://github.com/Aaaaaaaty/Leetcode/blob/master/Array/RemoveElement.js)(Easy)
